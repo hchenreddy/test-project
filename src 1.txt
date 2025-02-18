@@ -1,0 +1,7 @@
+Public class CreditCard{
+ 
+public string cardstatus(){
+
+return "active"
+}
+}
